@@ -27,7 +27,6 @@ social:
 organizations:
   - name: Case Western Reserve University
     url: ""
-phone: "+1 (847)868-4720"
 education:
   courses:
     - course: Ph.D. in Computing and Information Science
@@ -39,14 +38,15 @@ education:
     - course: B.S. in Information and Computing Sciences
       institution: " Beijing University of Posts and Telecommunications"
       year: ""
-email: "yxg383@case.edu"
+email: yxg383@case.edu
 superuser: true
 user_groups:
   - Researchers
   - Visitors
+phone: +1 (847)868-4720
 highlight_name: false
 ---
-Yifan Guo is a Research Assistant at Case Wetsern Reserve University. Before joining CWRU, he received the B.S. degree in information and computing sciences from the Beijing University of Posts and Telecommunications, China, in 2013, and the M.S. degree in computer science from Northwestern University, Evanston, IL, USA, in 2015. 
+Yifan Guo is a Research Assistant at Case Western Reserve University. Before joining CWRU, he received the B.S. degree in information and computing sciences from the Beijing University of Posts and Telecommunications, China, in 2013, and the M.S. degree in computer science from Northwestern University, Evanston, IL, USA, in 2015. 
 
 His research interests focus on security and privacy issues and optimization algorithm designs in intelligent learning systems with an emphasis on anomaly detection, adversarial training, and robust federated learning, and their applications on the Internet of Things (IoT), Cyber-physical Systems (CPS), computer vision, smart city, and smart health, etc.  
 
