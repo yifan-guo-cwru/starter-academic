@@ -1,74 +1,53 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Yifan Guo
+role: Research Assistant
+avatar_filename: avatar.jpg
+bio: "My research focuses on security and privacy issues and optimization
+  algorithm designs in intelligent learning systems with an emphasis on anomaly
+  detection, adversarial training, and robust federated learning, and their
+  applications on the Internet of Things (IoT), Cyber-physical Systems (CPS),
+  computer vision, smart city, and smart health, etc. "
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Anomaly Detection
+  - Adversarial Training
+  - Robust Federated Learning
+social:
+  - icon: envelope
+    icon_pack: far
+    link: mailto:yxg383@case.edu
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/yifan-guo-cwru
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Gb3iND8AAAAJ&hl=en
+  - icon_pack: ai
+    icon: semantic-scholar
+    link: https://www.semanticscholar.org/author/Y.-Guo/48302177
+organizations:
+  - name: Case Western Reserve University
+    url: ""
+phone: "+1 (847)868-4720"
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: Ph.D. in Computing and Information Science
+      institution: Case Western Reserve University
+      year: ""
+    - course: M.S. in Computer Science
+      institution: Northwestern University
+      year: ""
+    - course: B.S. in Information and Computing Sciences
+      institution: " Beijing University of Posts and Telecommunications"
+      year: ""
+email: "yxg383@case.edu"
+superuser: true
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
+highlight_name: false
 ---
+Yifan Guo is a Research Assistant at Case Wetsern Reserve University. Before joining CWRU, he received the B.S. degree in information and computing sciences from the Beijing University of Posts and Telecommunications, China, in 2013, and the M.S. degree in computer science from Northwestern University, Evanston, IL, USA, in 2015. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+His research interests focus on security and privacy issues and optimization algorithm designs in intelligent learning systems with an emphasis on anomaly detection, adversarial training, and robust federated learning, and their applications on the Internet of Things (IoT), Cyber-physical Systems (CPS), computer vision, smart city, and smart health, etc.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His current research goal is to investigate the intercorrelation between security and practical deep learning systems in two folds: 1) developing efficient, scalable, and implementable deep learning schemes for security applications in IoT systems; 2) investigating the vulnerability of practical deep learning systems, and ultimately, developing robust defense strategies to address the security and privacy concerns in both distributed and decentralized settings.
