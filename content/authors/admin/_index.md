@@ -54,6 +54,6 @@ His current research goal is to investigate the intercorrelation between securit
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "media/CV_Yifan.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-{{< icon name="phone" pack="fas" >}} +1 (847)868-4720  
+{{< icon name="phone" pack="fas" >}} Phone: +1 (847)868-4720  
 
 {{< icon name="envelope" pack="fas" >}} Email: yxg383@case.edu
