@@ -52,7 +52,7 @@ His research interests focus on security and privacy issues and optimization alg
 
 His current research goal is to investigate the intercorrelation between security and practical deep learning systems in two folds: 1) developing efficient, scalable, and implementable deep learning schemes for security applications in IoT systems; 2) investigating the vulnerability of practical deep learning systems, and ultimately, developing robust defense strategies to address the security and privacy concerns in both distributed and decentralized settings.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Yifan.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download his {{< staticref "media/CV_Yifan.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 {{< icon name="phone" pack="fas" >}} +1 (847)868-4720  
 
