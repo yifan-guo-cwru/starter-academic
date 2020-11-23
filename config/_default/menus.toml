@@ -9,33 +9,33 @@
   weight = 10
 
 [[main]]
+  name = "Research"
+  url = "#research"
+  weight = 20
+
+[[main]]
   name = "Publications"
   url = "#publications"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Honors"
   url = "#honor"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Professionals"
   url = "#professional"
-  weight = 50  
+  weight = 60  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "media/CV_Yifan.pdf"
-  weight = 60
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
   weight = 70

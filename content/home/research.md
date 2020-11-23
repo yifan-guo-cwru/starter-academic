@@ -1,18 +1,18 @@
 +++
-# A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/post/`.
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Professional Activities"
+title = "Research Interests"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
+  page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -37,14 +37,14 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-  
+    
   # Background color.
   # color = "navy"
   
@@ -67,12 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-- **Conference TPC member**
-  * The 35th AAAI Conference on Artificial Intelligence (AAAI'21)
-  * The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim Interna- tional Conference on Artificial Intelligence (IJCAI-PRICAI'20)
-<br/><br/>
-- **Reviewer for journals**
-  * IEEE Internet of Things Journal, IEEE Access, Information Sciences, etc.
-<br/><br/>
-- **Reviewer for conferences**
-  * Infocom'20, BigData'20'19, MobiQuitous'20'19, ICCCN'20, AIIPCC'19, etc.
+
+His research interests focus on security and privacy issues and optimization algorithm designs in intelligent learning systems with an emphasis on anomaly detection, adversarial training, and robust federated learning, and their applications on the Internet of Things (IoT), Cyber-physical Systems (CPS), computer vision, smart city, and smart health, etc.  
+
+His current research goal is to investigate the intercorrelation between security and practical deep learning systems in two folds: 1) developing efficient, scalable, and implementable deep learning schemes for security applications in IoT systems; 2) investigating the vulnerability of practical deep learning systems, and ultimately, developing robust defense strategies to address the security and privacy concerns in both distributed and decentralized settings.
