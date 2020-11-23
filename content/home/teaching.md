@@ -70,13 +70,13 @@ subtitle = ""
 
 - **Guest Lecturer**, Case Western Reserve University
   * DSCI 133 Introduction to Data Science and Engineering, Spring'19 
-
+<br/><br/>
   
 - **Teaching Assistant**, Case Western Reserve University 
   * EECS 302 Discrete Mathematics, Fall'16 | Spring'17 | Spring'19
   * EECS 341 Introduction to Database Systems, Fall'17
   * EECS 414 Wireless Communication, Fall'18
-
+<br/><br/>
 
 - **Peer Mentor**, Northwestern University
   * EECS 317 Data Management and Information Processing, Fall'15

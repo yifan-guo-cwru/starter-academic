@@ -68,11 +68,11 @@ subtitle = ""
 +++
 
 - **Conference TPC member**
-  * The 35th AAAI Conference on Artificial Intelligence (AAAI’21)
-  * The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim Interna- tional Conference on Artificial Intelligence (IJCAI-PRICAI’20)
-
+  * The 35th AAAI Conference on Artificial Intelligence (AAAI'21)
+  * The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim Interna- tional Conference on Artificial Intelligence (IJCAI-PRICAI'20)
+<br/><br/>
 - **Reviewer for journals**
   * IEEE Internet of Things Journal, IEEE Access, Information Sciences, etc.
-
+<br/><br/>
 - **Reviewer for conferences**
-  * Infocom’20, BigData’20’19, MobiQuitous’20’19, ICCCN’20, AIIPCC’19, etc.
+  * Infocom'20, BigData'20'19, MobiQuitous'20'19, ICCCN'20, AIIPCC'19, etc.
